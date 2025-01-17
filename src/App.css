@@ -1,0 +1,34 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.calculator{
+  background-color:rgb(166, 141, 141);
+  padding: 20px;
+  border-radius: 10px;
+  /* box-shadow: 1ch; */
+  width: 300px;
+
+}
+.btn{
+  margin: 5px 0;
+
+}
+.display{
+  background-color: rgb(244, 238, 232);
+  height: 50px;
+  text-align: right;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+/* .equal{
+  width: 100px;
+} */
